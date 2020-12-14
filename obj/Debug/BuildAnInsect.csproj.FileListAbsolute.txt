@@ -1,0 +1,6 @@
+/Users/rhonafilgueras/Desktop/ITP Fall 2020/BuildAnInsect/BuildAnInsect/obj/Debug/BuildAnInsect.csprojAssemblyReference.cache
+/Users/rhonafilgueras/Desktop/ITP Fall 2020/BuildAnInsect/BuildAnInsect/obj/Debug/BuildAnInsect.csproj.CoreCompileInputs.cache
+/Users/rhonafilgueras/Desktop/ITP Fall 2020/BuildAnInsect/BuildAnInsect/bin/Debug/BuildAnInsect.exe
+/Users/rhonafilgueras/Desktop/ITP Fall 2020/BuildAnInsect/BuildAnInsect/bin/Debug/BuildAnInsect.pdb
+/Users/rhonafilgueras/Desktop/ITP Fall 2020/BuildAnInsect/BuildAnInsect/obj/Debug/BuildAnInsect.exe
+/Users/rhonafilgueras/Desktop/ITP Fall 2020/BuildAnInsect/BuildAnInsect/obj/Debug/BuildAnInsect.pdb
